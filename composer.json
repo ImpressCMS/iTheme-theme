@@ -8,6 +8,7 @@
       "email": "info@impresscms.org"
     }
   ],
+  "description": "Theme for ImpressCMS made by MrTheme",
   "require": {},
   "extra": {
     "name": "iTheme",
