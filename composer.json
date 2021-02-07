@@ -9,7 +9,10 @@
     }
   ],
   "description": "Theme for ImpressCMS made by MrTheme",
-  "require": {},
+  "require": {
+    "imponeer/smarty-xo": "^1.0",
+    "imponeer/smarty-includeq": "^1.0"
+  },
   "extra": {
     "name": "iTheme",
     "screenshots": {
