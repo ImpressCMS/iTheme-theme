@@ -8,6 +8,7 @@ updates:
     schedule:
       interval: "weekly"
       time: "11:00"
+    open-pull-requests-limit: 20
     labels:
       - "composer"
       - "dependencies"
@@ -17,6 +18,7 @@ updates:
     schedule:
       interval: "weekly"
       time: "11:00"
+    open-pull-requests-limit: 20
     labels:
       - "dependencies"
       - "infrastructure"
